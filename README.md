@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hey 👋 I'm Komi</h1>
 
+<h3 align="center"> Android Developer @Lorentz </h3>
 
-**dononcharles/dononcharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on native android apps at <a href="https://www.lorentz.de" target="blank">Lorentz GmbH</a>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning SWift / IOS programming 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤝 I’m looking to collaborate on android development
+
+- 💬 Ask me about Software Development, Android Development or whatever. I'm happy to help
+
+- 📫 How to reach me 
+
+### Languages and Tools:
+- Android <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="20">
+- Firebase <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="20">
+- Kotlin <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="20">
+- Git <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20">
+- CI/CD
+- Java Android
+- Google Play Publisher
+- PHP
+- SQLITE
+- MYSQL
+- SWIFT
+
 
